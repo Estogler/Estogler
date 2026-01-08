@@ -1,112 +1,76 @@
-# Olá 👋 Eu sou o Kauã Oliveira
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000"/>
 
 <div align="center">
-
-  <a href="https://github.com/Estogler">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Estogler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estogler&layout=compact&langs_count=8&theme=dracula" />
-  </a>
-
-<div align="center">
-  <img alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img alt="Pandas" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
-  <img alt="NumPy" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
-  <img alt="Scikit-learn" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img alt="Jupyter" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
-  <img alt="Git" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <p>Kauã Oliveira</p>
 </div>
 
-##
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FF0000&width=190&lines=Ol%C3%A1%2C+Seja+Bem+Vindo" />
+  </a>
+</p>
+
+<p align="center">
+🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+📊 Focado em Análise de Dados, Inteligência Artificial e Machine Learning<br>
+🤖 Estudando LLMs, IA Generativa, RAG, Fine Tuning e Agentic AI<br>
+🐍 Python | Dados | IA
+</p>
+
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Pixelify+Sans
+    &color=ff0000
+    &width=900
+    &size=30
+    &center=true
+    &lines=Hello!+My+name+is+Kauã+Oliveira;
+    I+am+from+Brazil;
+    ADS+Graduate;
+    Focused+on+Data+Analysis+and+AI;
+    Be+welcome!"
+  />
+</div>
+
+<br><br>
 
 <div align="center">
 
-  <a href="https://www.instagram.com/kauaestogler" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<div align="center">
 
-  <a href="mailto:kauaestogler2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+| | |
+|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Estogler&theme=moltack) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Estogler&theme=moltack) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Estogler&theme=moltack) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Estogler&theme=moltack&utcOffset=-3) |
 
-  <a href="https://www.linkedin.com/in/kau%C3%A3-oliveira-439279379" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://discord.com/users/882329657423323227" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Estogler&theme=moltack)
 
 </div>
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas (ADS)**  
-📍 João Pessoa – PB, Brasil  
+</div>
 
-Sou apaixonado por tecnologia, com foco em **Análise de Dados, Inteligência Artificial, Machine Learning e Modelos de Linguagem de Grande Escala (LLMs)**.  
-Busco aplicar meus conhecimentos para criar **soluções inteligentes**, apoiar a tomada de decisão e evoluir constantemente como profissional.
+<div align="center">
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauaestogler2005@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauaestogler)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-oliveira-439279379)
+[![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/882329657423323227)
 
-## 🚀 Sobre mim
-
-- 🔭 Atualmente focado em **Dados e Inteligência Artificial**
-- 🌱 Estudando **Python, Machine Learning, LLMs, IA Generativa, RAG, Fine Tuning e Agentic AI**
-- 🤖 Interesse em **soluções baseadas em IA e automação**
-- 🎯 Buscando oportunidade como **estagiário ou júnior** na área de tecnologia
-- 📚 Perfil proativo, com aprendizado contínuo e facilidade de adaptação
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Habilidades
+<div align="center" style="display: inline-block"><br>
 
-**Linguagens e Ferramentas**
-- 🐍 Python  
-- 📊 Análise de Dados  
-- 🤖 Machine Learning (fundamentos)  
-- 🧠 Modelos de Linguagem de Grande Escala (LLMs)  
-- ✨ Inteligência Artificial Generativa  
-- 🔗 RAG e Fine Tuning  
-- 🧩 Lógica de Programação  
-- 🏗️ Noções de Arquitetura de Software  
-- 📄 Pacote Office e Ferramentas Digitais  
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 
----
+</div>
 
-## 🎓 Formação & Certificações
-
-- 🎓 **Análise e Desenvolvimento de Sistemas (ADS)** – UNIPÊ *(Concluído)*  
-- 📈 **Formação Complementar em Análise de Dados com Python**  
-- 🤖 **Inteligência Artificial e Machine Learning**  
-- 🚀 **Bootcamp – Digital Innovation One (DIO)**
-  - Fundamentos de LLMs  
-  - Arquiteturas de LLMs  
-  - Introdução ao Machine Learning (DIO & BairesDev) *(em andamento)*  
-
----
-
-## 🤝 Habilidades Comportamentais
-
-- Trabalho em equipe 🤝  
-- Proatividade ⚡  
-- Responsabilidade 🎯  
-- Comprometimento 🔥  
-- Comunicação clara 💬  
-- Criatividade 💡  
-
----
-
-## 📫 Como me encontrar
-
-- 📧 E-mail: **kauaestogler2005@gmail.com**
-- 💼 LinkedIn: *([Kauã Oliveira](https://www.linkedin.com/in/kau%C3%A3-oliveira-439279379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))*  
-
----
-
-⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&section=footer"/>
